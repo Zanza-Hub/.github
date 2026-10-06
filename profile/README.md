@@ -105,12 +105,12 @@ O resultado é um **mapa de fricção e tensão urbana**: uma representação di
 
 A Zanza foi pensada para transformar percepção humana em inteligência útil para diferentes atores da cidade.
 
-| **Poder público** | Identificar padrões territoriais e pontos de atenção que podem orientar políticas e intervenções. |
-| **Comércio** | Compreender como determinados ambientes e contextos influenciam a experiência das pessoas. |
-| **Imobiliárias** | Adicionar uma camada de percepção territorial à compreensão dos espaços urbanos. |
-| **Escolas e universidades** | Compreender experiências e contextos relacionados aos seus territórios. |
-| **Organizações sociais** | Identificar padrões de percepção e vulnerabilidade a partir da experiência das comunidades. |
-| **Cidadãos** | Explorar a cidade através de informações construídas a partir das experiências de outras pessoas. |
+| **Poder público**           | Identificar padrões territoriais e pontos de atenção que podem orientar políticas e intervenções. |
+| **Comércio**                | Compreender como determinados ambientes e contextos influenciam a experiência das pessoas.        |
+| **Imobiliárias**            | Adicionar uma camada de percepção territorial à compreensão dos espaços urbanos.                  |
+| **Escolas e universidades** | Compreender experiências e contextos relacionados aos seus territórios.                           |
+| **Organizações sociais**    | Identificar padrões de percepção e vulnerabilidade a partir da experiência das comunidades.       |
+| **Cidadãos**                | Explorar a cidade através de informações construídas a partir das experiências de outras pessoas. |
 
 > As pessoas são a fonte da inteligência da Zanza — não o produto.
 
