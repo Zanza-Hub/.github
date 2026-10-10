@@ -84,27 +84,11 @@ Essas dimensões não são analisadas isoladamente.
 
 ---
 
-## O Mapa Vivo
-
-O mapa é a principal porta de entrada da Zanza. Em vez de simplesmente classificar regiões como "seguras" ou "perigosas", queremos revelar **onde, quando e em quais condições surgem diferentes percepções**.
-
-Isso permite visualizar padrões de:
-
-* conforto;
-* desconforto;
-* tensão;
-* acolhimento;
-* abandono percebido;
-* mudanças ao longo do tempo.
-
-O resultado é um **mapa de fricção e tensão urbana**: uma representação dinâmica da relação entre pessoas e espaço.
-
----
-
 ## Para quem?
 
 A Zanza foi pensada para transformar percepção humana em inteligência útil para diferentes atores da cidade.
 
+| --------------------------- | ------------------------------------------------------------------------------------------------- |
 | **Poder público**           | Identificar padrões territoriais e pontos de atenção que podem orientar políticas e intervenções. |
 | **Comércio**                | Compreender como determinados ambientes e contextos influenciam a experiência das pessoas.        |
 | **Imobiliárias**            | Adicionar uma camada de percepção territorial à compreensão dos espaços urbanos.                  |
@@ -128,58 +112,6 @@ A Zanza não pretende:
 * determinar como uma pessoa deve se deslocar.
 
 **Nosso objetivo é tornar a percepção urbana mais visível e compreensível.**
-
----
-
-## De Campinas para a cidade
-
-A Zanza começa em **Campinas**. A primeira etapa é entender profundamente o território, validar o modelo de percepção e descobrir quais padrões realmente podem ser extraídos das experiências das pessoas.
-
-Depois, a proposta é expandir progressivamente para outros territórios, utilizando Campinas como ambiente de validação antes de avançar para uma escala maior.
-
-```text
-CAMPINAS
-   │
-   ▼
-VALIDAÇÃO
-   │
-   ▼
-APRENDIZADO
-   │
-   ▼
-EXPANSÃO REGIONAL
-   │
-   ▼
-INTELIGÊNCIA URBANA EM ESCALA
-```
-
----
-
-## Em construção
-
-A Zanza está em desenvolvimento. Estamos trabalhando na construção do modelo de percepção, experiência do usuário, arquitetura da plataforma, coleta e organização dos dados e visualização territorial.
-
-### Roadmap
-
-* [x] Conceito inicial
-* [x] Definição do problema
-* [x] Definição do território inicial
-* [ ] Modelo de percepção
-* [ ] Protótipo da plataforma
-* [ ] Primeiro mapa de percepção
-* [ ] Validação em Campinas
-* [ ] Análise dos primeiros padrões
-* [ ] Evolução da plataforma
-* [ ] Expansão territorial
-
----
-
-## Tecnologia
-
-A Zanza é construída como um projeto de tecnologia urbana, conectando: 
-**Aplicação · Dados · Geolocalização · Mapas · Backend · Cloud · Analytics · Inteligência Artificial**
-
-A arquitetura evolui junto com o aprendizado do produto. Nosso objetivo não é escolher tecnologia por tecnologia. É construir uma infraestrutura capaz de transformar **experiência humana → dados → inteligência → compreensão da cidade**.
 
 ---
 
