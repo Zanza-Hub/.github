@@ -1,6 +1,6 @@
 <div align="center">
 
-![Zanza — A cidade pela perspectiva de quem a vive](.../assets/zanza-banner.svg)
+![Zanza — A cidade pela perspectiva de quem a vive](../assets/zanza-banner.svg)
 
 ### Percepção de segurança urbana, com contexto.
 
