@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Zanza — A cidade pela perspectiva de quem a vive</title>
+<desc id="desc">Banner azul escuro com linhas abstratas de um território urbano e pontos conectados em verde. Ilustração conceitual, sem dados geográficos.</desc>
+<defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#253747" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="400" rx="20" fill="#102331"/>
+<rect x="760" width="520" height="400" fill="url(#grid)"/>
+<g fill="none" stroke="#415a6b" stroke-width="3"><path d="M790 0v110l120 90v200M1010 0v85l-100 115h370M760 310h310l110-140V0M1090 400V285l190-90"/><path d="M800 40l480 290M760 170h145l140-170"/></g>
+<path d="M800 310h110V200l100-115h170" fill="none" stroke="#63d6ba" stroke-width="4"/>
+<g fill="#63d6ba" stroke="#102331" stroke-width="6"><circle cx="800" cy="310" r="10"/><circle cx="910" cy="200" r="13"/><circle cx="1010" cy="85" r="10"/><circle cx="1180" cy="85" r="10"/></g>
+<text x="70" y="78" fill="#63d6ba" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">PERCEPÇÃO URBANA · INTELIGÊNCIA TERRITORIAL</text>
+<text x="65" y="175" fill="#f4f8fa" font-family="Arial, sans-serif" font-size="82" font-weight="700" letter-spacing="7">ZANZA</text>
+<text x="70" y="247" fill="#f4f8fa" font-family="Arial, sans-serif" font-size="31">A cidade pela perspectiva</text>
+<text x="70" y="289" fill="#f4f8fa" font-family="Arial, sans-serif" font-size="31">de quem a vive.</text>
+<text x="70" y="352" fill="#b9cad5" font-family="Arial, sans-serif" font-size="17">Campinas · São Paulo · Brasil</text>
+</svg>

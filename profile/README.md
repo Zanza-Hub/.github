@@ -1,142 +1,119 @@
 <div align="center">
 
-# ZANZA
+![Zanza — A cidade pela perspectiva de quem a vive](assets/zanza-banner.svg)
 
-### Inteligência humana para entender a cidade
+### Percepção de segurança urbana, com contexto.
 
-**Percepção de segurança urbana transformada em inteligência territorial.**
+Transformar experiências cotidianas em uma camada de inteligência territorial para compreender a cidade.
 
-Campinas, SP · Brasil
+**Campinas · São Paulo · Brasil**
+
+[Conheça a proposta](#a-cidade-além-dos-indicadores) · [Encontre seu público](#para-quem-essa-inteligência-pode-ser-útil) · [Entenda o fluxo](#da-experiência-à-leitura-do-território)
 
 </div>
 
 ---
 
-## O que é a Zanza?
+## A cidade além dos indicadores
 
-A Zanza é uma plataforma de **percepção de segurança urbana** que transforma experiências cotidianas das pessoas em dados sobre a cidade.
+**O mesmo lugar pode ser vivido de formas diferentes.** O horário, a iluminação, a movimentação e a familiaridade com uma região influenciam a percepção de quem passa por ela.
 
-Uma mesma rua pode ser iluminada, movimentada e familiar para uma pessoa e, ainda assim, transmitir desconforto para outra.
+A **Zanza** é uma plataforma de percepção de segurança urbana cuja proposta é organizar essas experiências por lugar e contexto. Ao conectar relatos do cotidiano, busca tornar visíveis padrões que complementem a leitura tradicional dos territórios.
 
-A Zanza parte justamente dessa diferença.
+> **A pergunta que nos orienta:** como as pessoas percebem e vivenciam este lugar?
 
-Em vez de perguntar apenas **"essa região é segura?"**, buscamos entender:
+## Para quem essa inteligência pode ser útil?
 
-> **"Como as pessoas estão percebendo e vivenciando esse lugar?"**
+| Se você atua com… | A pergunta que a Zanza busca ajudar a explorar |
+| :--- | :--- |
+| **Gestão pública e planejamento urbano** | Onde as percepções das pessoas apontam questões que merecem investigação e escuta? |
+| **Pesquisa, escolas e universidades** | Como o contexto e os diferentes momentos do dia influenciam a experiência no território? |
+| **Organizações sociais e comunidades** | Quais experiências recorrentes precisam ganhar visibilidade nas discussões sobre a cidade? |
+| **Comércio e mercado imobiliário** | Como o entorno é percebido e quais aspectos da experiência urbana merecem atenção? |
+| **Pessoas que vivem e circulam pela cidade** | Como outras pessoas vivenciam os espaços que fazem parte do cotidiano? |
 
-A partir dessas percepções, construímos uma visão dinâmica da cidade — capaz de revelar padrões, pontos de atenção e contextos que dificilmente aparecem apenas em dados tradicionais.
+**O valor está em compreender experiências com contexto, preservando a complexidade de cada território.**
 
----
+## Da experiência à leitura do território
 
-## O problema
-
-Grande parte dos dados urbanos descreve **o que existe**.
-
-A Zanza busca compreender também **como a cidade é percebida por quem a vive**.
-
-Iluminação, infraestrutura, movimentação, acessibilidade, transporte, sensação de abandono, familiaridade com o local e contexto da experiência podem mudar completamente a forma como uma pessoa vivencia determinado espaço.
-
-Essas informações existem no cotidiano das pessoas, mas normalmente permanecem dispersas, subjetivas e difíceis de transformar em inteligência territorial.
-
-**A Zanza conecta essas experiências.**
-
----
-
-## Como funciona
-
-```text
-        EXPERIÊNCIA HUMANA
-                │
-                ▼
-           OBSERVAÇÃO
-                │
-                ▼
-        CONTEXTO DA EXPERIÊNCIA
-                │
-                ▼
-       DADOS DE PERCEPÇÃO
-                │
-                ▼
-        INTELIGÊNCIA TERRITORIAL
-                │
-                ▼
-            MAPA VIVO
+```mermaid
+flowchart TD
+    A[Experiência na cidade] --> B[Percepção associada a um local]
+    B --> C[Contexto da experiência]
+    C --> D[Leitura espacial e temporal]
+    D --> E[Mapa vivo de percepções]
+    C --- F[Horário e circunstâncias]
+    D --- G[Padrões e pontos de atenção]
 ```
 
-A plataforma organiza percepções associadas a um local e ao contexto em que aquela experiência aconteceu. O objetivo não é produzir uma simples nota para uma rua. É construir uma **visão espacial e temporal da percepção urbana**.
+A proposta conecta **o que foi percebido**, **onde** e **em quais circunstâncias**. Essa combinação permite explorar como as experiências variam entre lugares e ao longo do tempo.
 
----
+## Quatro dimensões para olhar a cidade
 
-## O que observamos
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A Zanza trabalha com diferentes dimensões da experiência urbana:
+### Ambiente
+Iluminação, infraestrutura, acessibilidade, limpeza e condições do espaço.
 
-| Dimensão       | O que buscamos compreender                                                        |
-| -------------- | --------------------------------------------------------------------------------- |
-| **Ambiente**   | Iluminação, infraestrutura, acessibilidade, limpeza e condições do espaço         |
-| **Riscos**     | Elementos percebidos como potenciais fontes de desconforto ou vulnerabilidade     |
-| **Contexto**   | Horário, momento da experiência, familiaridade, companhia e outras circunstâncias |
-| **Transporte** | Condições e percepção relacionadas à mobilidade e ao deslocamento                 |
+**Pergunta:** como as condições do lugar participam da experiência?
 
-Essas dimensões não são analisadas isoladamente.
+</td>
+<td width="50%" valign="top">
 
-**O contexto importa.**
+### Riscos percebidos
+Elementos relatados como fontes de desconforto ou vulnerabilidade.
 
----
+**Pergunta:** o que desperta atenção na percepção de quem passa?
 
-## Para quem?
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A Zanza foi pensada para transformar percepção humana em inteligência útil para diferentes atores da cidade.
+### Contexto
+Horário, familiaridade com o local, companhia e circunstâncias da experiência.
 
-| --------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Poder público**           | Identificar padrões territoriais e pontos de atenção que podem orientar políticas e intervenções. |
-| **Comércio**                | Compreender como determinados ambientes e contextos influenciam a experiência das pessoas.        |
-| **Imobiliárias**            | Adicionar uma camada de percepção territorial à compreensão dos espaços urbanos.                  |
-| **Escolas e universidades** | Compreender experiências e contextos relacionados aos seus territórios.                           |
-| **Organizações sociais**    | Identificar padrões de percepção e vulnerabilidade a partir da experiência das comunidades.       |
-| **Cidadãos**                | Explorar a cidade através de informações construídas a partir das experiências de outras pessoas. |
+**Pergunta:** em que situação essa percepção aconteceu?
 
-> As pessoas são a fonte da inteligência da Zanza — não o produto.
+</td>
+<td width="50%" valign="top">
 
----
+### Transporte e mobilidade
+Condições e percepções relacionadas aos deslocamentos.
 
-## O que a Zanza não é
+**Pergunta:** como o trajeto e a mobilidade influenciam a vivência?
 
-A Zanza não pretende:
+</td>
+</tr>
+</table>
 
-* definir quais lugares são "seguros" ou "perigosos";
-* substituir serviços de emergência;
-* funcionar como um aplicativo de rotas seguras;
-* transformar a cidade em uma lista de avaliações;
-* reduzir uma experiência urbana complexa a uma única nota;
-* determinar como uma pessoa deve se deslocar.
+## Um exemplo de leitura
 
-**Nosso objetivo é tornar a percepção urbana mais visível e compreensível.**
+> **Cenário ilustrativo — não representa dados coletados pela Zanza.**
+>
+> Em um mesmo entorno, relatos durante o dia mencionam movimentação e facilidade de acesso. À noite, outras experiências destacam iluminação e espera pelo transporte.
+>
+> A leitura útil é identificar **o que muda, quando muda e quais questões merecem investigação**.
 
----
+## Percepção com responsabilidade
 
-## Nossa visão
+Percepções são experiências situadas. Não equivalem, por si só, a ocorrências registradas ou a uma medida objetiva de segurança.
 
-A cidade não é apenas aquilo que seus sensores conseguem medir. Também é aquilo que as pessoas **sentem, percebem e vivenciam**. A Zanza existe para tornar essa camada da cidade visível.
+A proposta da Zanza é **complementar a compreensão urbana**. A plataforma não oferece garantia de segurança, orientação de rotas seguras ou atendimento de emergência. A interpretação dos relatos exige atenção ao contexto e à representatividade das contribuições.
 
-<br>
+> **As pessoas são a fonte da inteligência da Zanza — não o produto.**
 
-<div align="center">
-
-### Uma cidade pode ser medida.
-
-### Uma cidade também pode ser percebida.
-
-**A Zanza conecta as duas coisas.**
-
-</div>
-
----
 
 <div align="center">
 
-**Zanza · Campinas, Brasil**
+**ZANZA**
 
-[Projeto](https://github.com/Zanza-Hub)
+Uma cidade pode ser medida. Uma cidade também pode ser percebida.
+
+**Inteligência humana para entender a cidade.**
+
+Campinas · Brasil
 
 </div>
